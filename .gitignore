@@ -1,0 +1,13 @@
+# Fichiers SQL Server generes (ne jamais versionner)
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.ndf
+*.sqlaudit
+
+# Fichiers temporaires
+*.log
+~$*
+Thumbs.db
+.DS_Store
